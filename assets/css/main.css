@@ -373,7 +373,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #31d79b;
+		color: #8c6e79;
 	}
 
 	strong, b {
@@ -398,8 +398,8 @@ input, select, textarea {
 	}
 
 	header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
-		background-color: #31d79b;
-		background-image: url("../../images/zauryl.png"), linear-gradient(90deg, rgba(49, 215, 155, 0), #4b76eb 90%);
+		background-color: #e0cbc1;
+		background-image: url("../../images/zauryl.png"), linear-gradient(90deg, #c9cad6, #8c6e79 90%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 	}
@@ -2000,8 +2000,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 1px #31d79b;
-			color: #31d79b !important;
+			box-shadow: inset 0 0 0 1px #e0cbc1;
+			color: #e0cbc1 !important;
 		}
 
 			input[type="submit"]:hover:active,
@@ -2017,8 +2017,8 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #31d79b;
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(49, 215, 155, 0), #4b76eb 80%);
+			background-color: #e0cbc1;
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #c9cad6, #8c6e79 80%);
 			background-size: auto, auto;
 			background-repeat: repeat, no-repeat;
 			box-shadow: 0 0.5rem 1.75rem 0 rgba(0, 0, 0, 0.25);
@@ -2227,8 +2227,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #31d79b;
-			box-shadow: 0 0 0 1px #31d79b;
+			border-color: #e0cbc1;
+			box-shadow: 0 0 0 1px #e0cbc1;
 		}
 
 	select {
@@ -2252,18 +2252,18 @@ input, select, textarea {
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #31d79b;
-		background-image: url("../../images/zauryl.png"), linear-gradient(45deg, rgba(49, 215, 155, 0), #4b76eb 80%);
+		background-color: #e0cbc1;
+		background-image: url("../../images/zauryl.png"), linear-gradient(45deg, #c9cad6, #8c6e79 80%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
-		border-color: #31d79b;
+		border-color: #e0cbc1;
 		color: #ffffff;
 	}
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #31d79b;
-		box-shadow: 0 0 0 1px #31d79b;
+		border-color: #e0cbc1;
+		box-shadow: 0 0 0 1px #e0cbc1;
 	}
 
 	::-webkit-input-placeholder {
@@ -2771,8 +2771,8 @@ input, select, textarea {
 		.wrapper.style2 {
 			background-color: #3a3a3a;
 			color: #ffffff;
-			background-color: #31d79b;
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(49, 215, 155, 0), #4b76eb 80%);
+			background-color: #e0cbc1;
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #c9cad6, #8c6e79 80%);
 			background-size: auto, auto;
 			background-repeat: repeat, no-repeat;
 		}
@@ -2845,8 +2845,8 @@ input, select, textarea {
 				.wrapper.style2 input[type="button"].primary,
 				.wrapper.style2 button.primary,
 				.wrapper.style2 .button.primary {
-					background-color: #31d79b;
-					background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(49, 215, 155, 0), #4b76eb 80%);
+					background-color: #e0cbc1;
+					background-image: url("../../images/overlay.png"), linear-gradient(45deg, #c9cad6, #8c6e79 80%);
 					background-size: auto, auto;
 					background-repeat: repeat, no-repeat;
 					box-shadow: 0 0.5rem 1.75rem 0 rgba(0, 0, 0, 0.25);
@@ -2919,7 +2919,7 @@ input, select, textarea {
 			.wrapper.style2 input[type="radio"]:checked + label:before {
 				background-color: #ffffff;
 				border-color: #ffffff;
-				color: #31d79b;
+				color: #e0cbc1;
 			}
 
 			.wrapper.style2 input[type="checkbox"]:focus + label:before,
@@ -3451,8 +3451,8 @@ input, select, textarea {
 			#banner input[type="button"].primary,
 			#banner button.primary,
 			#banner .button.primary {
-				background-color: #31d79b;
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(49, 215, 155, 0), #4b76eb 80%);
+				background-color: #e0cbc1;
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #c9cad6, #8c6e79 80%);
 				background-size: auto, auto;
 				background-repeat: repeat, no-repeat;
 				box-shadow: 0 0.5rem 1.75rem 0 rgba(0, 0, 0, 0.25);
@@ -3695,8 +3695,8 @@ input, select, textarea {
 	#header {
 		background-color: #3a3a3a;
 		color: #ffffff;
-		background-color: #31d79b;
-		background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(49, 215, 155, 0), #4b76eb 90%);
+		background-color: #e0cbc1;
+		background-image: url("../../images/overlay.png"), linear-gradient(90deg,  #c9cad6, #8c6e79 90%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 		-moz-align-items: center;
@@ -3791,8 +3791,8 @@ input, select, textarea {
 		}
 
 			#header.alt:before {
-				background-color: #31d79b;
-				background-image: url("../../images/overlay.png"), linear-gradient(90deg, rgba(49, 215, 155, 0), #4b76eb 90%);
+				background-color: #e0cbc1;
+				background-image: url("../../images/overlay.png"), linear-gradient(90deg,  #c9cad6, #8c6e79 90%);
 				background-size: auto, auto;
 				background-repeat: repeat, no-repeat;
 				content: '';
@@ -3999,7 +3999,7 @@ input, select, textarea {
 				}
 
 				.dropotron li.active > a {
-					color: #31d79b;
+					color: #e0cbc1;
 				}
 
 			.dropotron a {
@@ -4011,7 +4011,7 @@ input, select, textarea {
 			}
 
 				.dropotron a:active, .dropotron a:hover, .dropotron a:focus {
-					color: #31d79b;
+					color: #e0cbc1;
 				}
 
 			body.header-alt .dropotron.level-0 {
@@ -4168,8 +4168,8 @@ input, select, textarea {
 	}
 
 	#navPanel {
-		background-color: #31d79b;
-		background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(49, 215, 155, 0), #4b76eb 80%);
+		background-color: #e0cbc1;
+		background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #c9cad6, #8c6e79 80%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 		-moz-transform: translateX(20rem);
