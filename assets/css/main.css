@@ -176,6 +176,10 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
+	.p-list {
+		margin: 0 0 0 0;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 200;
 		line-height: 1.5;
@@ -373,7 +377,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #8c6e79;
+		color: #715a64;
 	}
 
 	strong, b {
@@ -402,6 +406,11 @@ input, select, textarea {
 		background-image: url("../../images/zauryl.png"), linear-gradient(90deg, #ebdbd3, #8c6e79 90%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
+	}
+
+	.center{
+		margin:auto;
+		width: 50%;
 	}
 
 /* Row */
@@ -2451,7 +2460,7 @@ input, select, textarea {
 	ol {
 		list-style: decimal;
 		margin: 0 0 2rem 0;
-		padding-left: 1.25rem;
+		padding-left: 2rem;
 	}
 
 		ol li {
@@ -2460,8 +2469,8 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2rem 0;
-		padding-left: 1rem;
+		margin: 0 0 0 0;
+		padding-left: 3rem;
 	}
 
 		ul li {
