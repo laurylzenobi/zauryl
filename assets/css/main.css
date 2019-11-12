@@ -324,7 +324,7 @@ input, select, textarea {
 
 	header.major p {
 		font-size: 1.25rem;
-		margin: 0 0 2rem 0;
+		margin: 0 0 6rem 0;
 	}
 
 	header.major.alt {
@@ -2539,7 +2539,6 @@ input, select, textarea {
 			justify-content: center;
 			width: 100%;
 			margin-left: 0;
-			padding-top: 3rem;
 		}
 
 			ul.actions.special li:first-child {
@@ -2764,7 +2763,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 4rem 0 3rem 0 ;
+		padding: 8rem 0 6rem 0 ;
 		position: relative;
 	}
 
@@ -2998,9 +2997,9 @@ input, select, textarea {
 			}
 
 			.wrapper.style2.alt {
-				padding-bottom: 2.25rem;
+				padding-bottom: 7.25rem;
 				margin-top: -4.75rem;
-				padding-top: 10.75rem;
+				padding-top: 14.75rem;
 			}
 
 				.wrapper.style2.alt:after {
