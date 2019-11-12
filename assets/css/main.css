@@ -399,7 +399,7 @@ input, select, textarea {
 
 	header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
 		background-color: #e0cbc1;
-		background-image: url("../../images/zauryl.png"), linear-gradient(90deg, #c9cad6, #8c6e79 90%);
+		background-image: url("../../images/zauryl.png"), linear-gradient(90deg, #ebdbd3, #8c6e79 90%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 	}
@@ -2018,7 +2018,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #e0cbc1;
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #c9cad6, #8c6e79 80%);
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #ebdbd3, #8c6e79 80%);
 			background-size: auto, auto;
 			background-repeat: repeat, no-repeat;
 			box-shadow: 0 0.5rem 1.75rem 0 rgba(0, 0, 0, 0.25);
@@ -2253,7 +2253,7 @@ input, select, textarea {
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
 		background-color: #e0cbc1;
-		background-image: url("../../images/zauryl.png"), linear-gradient(45deg, #c9cad6, #8c6e79 80%);
+		background-image: url("../../images/zauryl.png"), linear-gradient(45deg, #ebdbd3, #8c6e79 80%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 		border-color: #e0cbc1;
@@ -2772,7 +2772,7 @@ input, select, textarea {
 			background-color: #3a3a3a;
 			color: #ffffff;
 			background-color: #e0cbc1;
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #c9cad6, #8c6e79 80%);
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #ebdbd3, #8c6e79 80%);
 			background-size: auto, auto;
 			background-repeat: repeat, no-repeat;
 		}
@@ -2846,7 +2846,7 @@ input, select, textarea {
 				.wrapper.style2 button.primary,
 				.wrapper.style2 .button.primary {
 					background-color: #e0cbc1;
-					background-image: url("../../images/overlay.png"), linear-gradient(45deg, #c9cad6, #8c6e79 80%);
+					background-image: url("../../images/overlay.png"), linear-gradient(45deg, #ebdbd3, #8c6e79 80%);
 					background-size: auto, auto;
 					background-repeat: repeat, no-repeat;
 					box-shadow: 0 0.5rem 1.75rem 0 rgba(0, 0, 0, 0.25);
@@ -3452,7 +3452,7 @@ input, select, textarea {
 			#banner button.primary,
 			#banner .button.primary {
 				background-color: #e0cbc1;
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #c9cad6, #8c6e79 80%);
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #ebdbd3, #8c6e79 80%);
 				background-size: auto, auto;
 				background-repeat: repeat, no-repeat;
 				box-shadow: 0 0.5rem 1.75rem 0 rgba(0, 0, 0, 0.25);
@@ -3696,7 +3696,7 @@ input, select, textarea {
 		background-color: #3a3a3a;
 		color: #ffffff;
 		background-color: #e0cbc1;
-		background-image: url("../../images/overlay.png"), linear-gradient(90deg,  #c9cad6, #8c6e79 90%);
+		background-image: url("../../images/overlay.png"), linear-gradient(90deg,  #ebdbd3, #8c6e79 90%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 		-moz-align-items: center;
@@ -3792,7 +3792,7 @@ input, select, textarea {
 
 			#header.alt:before {
 				background-color: #e0cbc1;
-				background-image: url("../../images/overlay.png"), linear-gradient(90deg,  #c9cad6, #8c6e79 90%);
+				background-image: url("../../images/overlay.png"), linear-gradient(90deg,  #ebdbd3, #8c6e79 90%);
 				background-size: auto, auto;
 				background-repeat: repeat, no-repeat;
 				content: '';
@@ -4169,7 +4169,7 @@ input, select, textarea {
 
 	#navPanel {
 		background-color: #e0cbc1;
-		background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #c9cad6, #8c6e79 80%);
+		background-image: url("../../images/overlay.png"), linear-gradient(45deg,  #ebdbd3, #8c6e79 80%);
 		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 		-moz-transform: translateX(20rem);
