@@ -2764,7 +2764,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 8rem 0 6rem 0 ;
+		padding: 4rem 0 3rem 0 ;
 		position: relative;
 	}
 
@@ -2998,9 +2998,9 @@ input, select, textarea {
 			}
 
 			.wrapper.style2.alt {
-				padding-bottom: 7.25rem;
+				padding-bottom: 2.25rem;
 				margin-top: -4.75rem;
-				padding-top: 14.75rem;
+				padding-top: 10.75rem;
 			}
 
 				.wrapper.style2.alt:after {
