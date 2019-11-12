@@ -408,6 +408,11 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
+	.center{
+		margin:auto;
+		width: 50%;
+	}
+
 /* Row */
 
 	.row {
