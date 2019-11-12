@@ -320,7 +320,7 @@ input, select, textarea {
 
 	header.major p {
 		font-size: 1.25rem;
-		margin: 0 0 6rem 0;
+		margin: 0 0 2rem 0;
 	}
 
 	header.major.alt {
@@ -2530,6 +2530,7 @@ input, select, textarea {
 			justify-content: center;
 			width: 100%;
 			margin-left: 0;
+			padding-top: 3rem;
 		}
 
 			ul.actions.special li:first-child {
